@@ -1,4 +1,3 @@
-
 # 🏥 Medical RAG Chatbot
 
 A Retrieval-Augmented Generation (RAG) chatbot that answers medical questions using a medical textbook dataset.
@@ -111,6 +110,3 @@ streamlit run app.py
 * The original PDF dataset is not included due to size constraints
 * Precomputed FAISS index is used for fast retrieval
 * Do not expose your API key publicly
-
-
-
