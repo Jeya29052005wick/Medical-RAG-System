@@ -86,14 +86,6 @@ set GOOGLE_API_KEY=your_api_key
 streamlit run app.py
 ```
 
----
-
-## 🌐 Live Demo
-
-👉 https://your-app-link
-
----
-
 ## 📊 Tech Stack
 
 * Python
